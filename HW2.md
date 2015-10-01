@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 30 21:33:54 2015
-
-@author: f371757
-"""
 
 ###### BASIC LEVEL PART 1: Read in the data with csv.reader() and store it in a list of lists called 'data'
 import csv
